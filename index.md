@@ -1,17 +1,21 @@
-## 今天的你看起来很不错呀！！！
+##今天的你看起来很不错呀！！！
 
+### 个人网站or博客（也许是个日记本）
 
-### 博客
+![Image of Yaktocat]
+(https://github.com/hihitech/hihitech.github.io/blob/master/8.jpg)
 
-这是我的个人博客，我想用它去记录我的生活。
+好吧，我打算用它去记录我的生活，至少不用随时带个笔记本。
 
 
 ```markdown
-Syntax highlighted code block
+这里干嘛呢？
 
-# Header 1
-## Header 2
-### Header 3
+# 第一天
+
+## 第二天
+
+### 第三天
 
 - Bulleted
 - List
@@ -19,9 +23,6 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
