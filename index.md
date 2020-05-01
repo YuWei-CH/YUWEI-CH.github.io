@@ -2,8 +2,8 @@
 
 ### 个人网站or博客（也许是个日记本）
 
-![Image of Yaktocat]
-(https://github.com/hihitech/hihitech.github.io/blob/master/8.jpg)
+![Image of temple]
+(https://repository-images.githubusercontent.com/260363424/36e28880-8ba2-11ea-9873-feedce878516)
 
 好吧，我打算用它去记录我的生活，至少不用随时带个笔记本。
 
@@ -24,8 +24,9 @@
 2. List
 
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Markdown 教程
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html).
 
 ### Jekyll Themes
 
@@ -33,8 +34,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+技术支持： [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) 
 
-You can use the [editor on GitHub](https://github.com/hihitech/hihitch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[修改地址](https://github.com/hihitech/hihitch.github.io/edit/master/index.md) t
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
