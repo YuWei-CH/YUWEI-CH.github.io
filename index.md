@@ -5,7 +5,7 @@
 它是个人网站or博客(也许是个日记本)。
 我打算用它去记录我的生活，留给以后看吧。
 
-![Image of temple](https://pics.images.ac.cn/image/5eaba65fcbe0a.html)
+![Image of temple](https://cn.bing.com/th?id=OHR.BurgAltdahn_ZH-CN8281669977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
 
 ### 某人的日记：
 
