@@ -4,8 +4,7 @@
 
 它是个人网站or博客（也许是个日记本）
 
-![Image of temple]
-(https://pics.images.ac.cn/image/5eaba65fcbe0a.html)
+![Image of temple](https://pics.images.ac.cn/image/5eaba65fcbe0a.html)
 
 好吧，我打算用它去记录我的生活，至少不用随时带个笔记本。
 
