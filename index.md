@@ -6,7 +6,7 @@
 我打算用它去记录我的生活，留给以后看吧。
 
 ![Image of temple](https://cn.bing.com/th?id=OHR.BurgAltdahn_ZH-CN8281669977_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp)
-*图片来自bing，每日更新*
+*图片每日更新*
 
 ### 某人的日记：
 
