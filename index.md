@@ -1,11 +1,11 @@
-## 😄Hi，好久不见!   
+## 😄Hi，好久不见!     
 
 
 ### 正经的主页面   
        
 
-它是个人网站or博客(也许是个日记本)。
-我打算用它去记录我的生活，留给以后看吧。
+它是个人网站or博客(也许是个日记本)。  
+我打算用它去记录我的生活，留给以后看吧。   
 
 ![Image of temple](https://api.xygeng.cn/Bing/)
 *图片每日更新*
@@ -17,7 +17,7 @@
 
 
 
-### 好像挺有道理的诗
+### 好像挺有道理的诗   
 ```
 
 纽约时间比加州时间早三个小时，
@@ -81,7 +81,7 @@ while someone else got married.
 
 
 
-欧巴马55岁就退休，
+奥巴马55岁就退休，
 
 Obama retires at 55,
 
@@ -162,14 +162,14 @@ You are very much ON TIME, and in your TIME ZONE Destiny set up for you.
 
 ```
 
-### 奇奇怪怪的project
-1.致力于帮助中国青年解决形式主义化的文章写作
+### 奇奇怪怪的project   
+1.致力于帮助中国青年解决形式主义化的文章写作  
 [github链接](https://github.com/YuWei-CH/Formalist-articles-writer-java#形式主义文章生成器----java)
 
-### 严肃认真的页面说明
-*这个页面使用Markdown编辑呈现的
-[Markdown](https://guides.github.com/features/mastering-markdown/).
-[Markdown 菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html).
+### 严肃认真的页面说明  
+*这个页面使用Markdown编辑呈现的  
+[Markdown](https://guides.github.com/features/mastering-markdown/)   
+[Markdown 菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)   
 
 *Jekyll模版
 这个看起来有点丑的页面是Jekyll的模版，但是不可否认的是我自己也设计不出来。
@@ -177,10 +177,10 @@ You are very much ON TIME, and in your TIME ZONE Destiny set up for you.
 ### 技术支持
 *服务器由 GitHub pages 提供，YuWei-CH部署静态网页
 
-*[GitHub pages](https://pages.github.com)   
-*[YuWei-CH](https://github.com/YuWei-CH)  
+*[GitHub pages](https://pages.github.com)    
+*[YuWei-CH](https://github.com/YuWei-CH)   
 
-*技术支持： [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) 
+*技术支持： [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact)  
 
 #### [Made By YuWei Sun](www.yuweisun.top) (套娃警告⚠️)
 
