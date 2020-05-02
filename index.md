@@ -1,7 +1,8 @@
-## 😄Hi，好久不见！！！
+## 😄Hi，好久不见!   
 
-### 正经的主页面
 
+### 正经的主页面   
+       
 
 它是个人网站or博客(也许是个日记本)。
 我打算用它去记录我的生活，留给以后看吧。
@@ -156,6 +157,8 @@ You’re not EARLY.
 在命运为你安排的属于自己的时区里，一切都准时。
 
 You are very much ON TIME, and in your TIME ZONE Destiny set up for you.
+
+——《你在自己的时区里，从没落后》
 
 ```
 
