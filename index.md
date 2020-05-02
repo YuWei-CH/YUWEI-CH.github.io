@@ -167,18 +167,20 @@ You are very much ON TIME, and in your TIME ZONE Destiny set up for you.
 [github链接](https://github.com/YuWei-CH/Formalist-articles-writer-java#形式主义文章生成器----java)
 
 ### 严肃认真的页面说明
-*这个页面基于Github page，使用的是Markdown来呈现的
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-[菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html).
+*这个页面使用Markdown编辑呈现的
+[Markdown](https://guides.github.com/features/mastering-markdown/).
+[Markdown 菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html).
 
 *Jekyll模版
 这个看起来有点丑的页面是Jekyll的模版，但是不可否认的是我自己也设计不出来。
 
-### 技术支持&页面修改
+### 技术支持
+*服务器由 GitHub pages 提供，YuWei-CH部署静态网页
+
+*[GitHub pages](https://pages.github.com)   
+*[YuWei-CH](https://github.com/YuWei-CH)  
 
 *技术支持： [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) 
 
-*[快速修改](https://github.com/hihitech/hihitch.github.io/edit/master/index.md)   
-*[dairy](https://github.com/YuWei-CH/YuWei-CH.dairy.github.io/blob/master/index.md)  
-
 #### [Made By YuWei Sun](www.yuweisun.top) (套娃警告⚠️)
+
